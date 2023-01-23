@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Fist run this command to install all the dependencies. 
 
-### npm install
+### `npm install`
 
 
 Then in th project directory, you can run:
